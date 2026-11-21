@@ -4,3 +4,4 @@ console.log("Hello console! - Prioritization");
 
 const namaPengguna: string = readlineSync.question("Masukkan nama Anda: ");
 console.log(`Selamat datang, ${namaPengguna}!`);
+console.log("Halo! - Halo");
